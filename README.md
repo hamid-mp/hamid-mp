@@ -16,7 +16,7 @@
 
 | Development| Data| Machine Learning| Web| DevOps 
 |----- | ----- | ------ | ------ | ------ |
-|[![My Skills](https://skillicons.dev/icons?i=py,opencv,matlab,r&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite, postgres&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,selenium,postman&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux&theme=light)](https://skillicons.dev)| 
+|[![My Skills](https://skillicons.dev/icons?i=py,opencv,matlab,r&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,selenium,postman&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux&theme=light)](https://skillicons.dev)| 
 
 
 <!-- ## &#x1f4c8; Github Stats -->
