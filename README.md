@@ -14,10 +14,9 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-| Development| Machine Learning| Data| Web| DevOps 
-|----- | ----- | ------ |
-| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/less-254f84?style=for-the-badge&logo=less&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> |
-
+| Development| Data| Machine Learning| Web| DevOps 
+|----- | ----- | ------ | ------ | ------ |
+|[![My Skills](https://skillicons.dev/icons?i=py,opencv,matlab,r&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite, postgres&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,selenium,postman&theme=light)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux&theme=light)](https://skillicons.dev)| 
 
 
 <!-- ## &#x1f4c8; Github Stats -->
