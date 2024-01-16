@@ -1,4 +1,4 @@
-<img src="readme_header.png" alt="Header" width="50%">
+<img src="readme_header.png" alt="Header" height="50%">
 
 ## &nbsp;Hello! <img src="./wave.gif" width="22" style="width: 20px;" />
 
