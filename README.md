@@ -1,4 +1,4 @@
-[![Header](./readme_header.png "Header")](https://github.com/hamid-mp)
+[![Header](readme_header.png "Header")](https://github.com/hamid-mp)
 
 ## &nbsp;Hello! <img src="./wave.gif" width="22" style="width: 20px;" />
 
