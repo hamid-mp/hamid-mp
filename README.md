@@ -71,19 +71,6 @@
 </p>
 
 ---
-
-### 📝 Latest Blog Posts (optional)
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, you can add a workflow to auto-update this -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🏆 Achievements & Certifications (optional)
-- *Add any notable achievements here*
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamid-mp&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
