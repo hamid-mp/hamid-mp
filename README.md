@@ -66,11 +66,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamid-mp&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-mp&layout=compact&theme=radical" width="60%" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamid-mp&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
-</p>
